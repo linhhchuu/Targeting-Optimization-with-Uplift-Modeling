@@ -44,6 +44,7 @@ Starbucks ran a randomized controlled experiment to test the effect of sending a
 | **X-Learner (Tuned)** | **0.2794** | **2.06%** | **$541**  |
 
 **Improvement over A/B mass targeting**: +$1,673
+<img width="1264" alt="image" src="https://github.com/user-attachments/assets/455b3ee0-9174-4c9e-9186-4d4f4a42184f" />
 
 ---
 
