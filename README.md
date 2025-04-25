@@ -22,6 +22,7 @@ Starbucks ran a randomized controlled experiment to test the effect of sending a
 <img width="1261" alt="image" src="https://github.com/user-attachments/assets/3828d8c6-4d05-4cf6-a59d-3d86be82106c" />
 
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/1287b042-b5dd-4dd9-9296-5bab7c227174" />
+
 ### Uplift Modeling Pipeline
 1. **Estimate Heterogeneous Treatment Effects (CATE)** using:
    - S-Learner
